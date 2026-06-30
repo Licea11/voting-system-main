@@ -4,6 +4,9 @@
 
 A production-ready electronic voting system built on Bitcoin SV (BSV) blockchain with zero-knowledge proofs for voter privacy and public auditability.
 
+> Function-level docs (every module's public API, with mermaid diagrams): [`FUNCTIONS.md`](FUNCTIONS.md).
+> External integrations (incl. the wallet's protocol-adapter contract): [`REFERENCES.md`](REFERENCES.md).
+
 ## ✨ Features
 
 - **🔐 Voter Privacy**: Zero-knowledge proofs ensure anonymous voting
